@@ -1,0 +1,16 @@
+Feedback
+
+Examen (1.0/5.0)
+ * Mala subida de archivos. Se generaron clases duplicadas y tocó reconfigurar el proyecto.
+ * No hay implementación de APBullet ni Invader.
+ * La implementación del disparo no satisface el enunciado.
+ * El hazard spawner solo instancia un tipo de hazard. No se puede probar el Debris sin configurar el proyecto.
+ * No hay GameOver cuando el hazard traspasa la posición del jugador.
+ * Los Hazards no se destruyen al impactar con un Shelter.
+ * Los shelters no reciben daño del hazard.
+ * La implementación del Debris requiere configuración para verla funcionando. Además, hay valores que la hacen imperceptible.
+
+Bonificación (0.0/0.5)
+ * No hay propuesta para la bonificación
+
+Total: 1.0 / 5.0
